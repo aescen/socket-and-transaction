@@ -1,0 +1,1 @@
+{"version":3,"file":"chat.model.js","sourceRoot":"","sources":["../../../../../src/frameworks/data-services/mysql/model/chat.model.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qCAAiE;AAGjE,IAAa,IAAI,GAAjB,MAAa,IAAI;CAShB,CAAA;AAPC;IADC,gCAAsB,CAAC,MAAM,CAAC;;gCACpB;AAGX;IADC,gBAAM,EAAE;;sCACQ;AAGjB;IADC,gBAAM,EAAE;;qCACO;AARL,IAAI;IADhB,gBAAM,EAAE;GACI,IAAI,CAShB;AATY,oBAAI"}
